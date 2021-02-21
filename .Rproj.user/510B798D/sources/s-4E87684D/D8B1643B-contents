@@ -18,9 +18,10 @@ RMarkdown combines the programming power of R and the text formatting features o
 
 This document introduces the user to the following:
 
-- Using RMarkdown
 - Data wrangling using tidyverse
 - Exploratory data analysis and visualisations
+- Simple statistical analysis in R
+- Using RMarkdown to make reports and webpages
 
 ***
 
