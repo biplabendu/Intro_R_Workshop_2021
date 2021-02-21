@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2955065541",
     "id" : "D8B1643B",
-    "lastKnownWriteTime" : 1613863040,
-    "last_content_update" : 1613863040149,
+    "lastKnownWriteTime" : 1613878590,
+    "last_content_update" : 1613878590840,
     "path" : "~/Documents/GitHub/Intro_R_Workshop_2021/IUSSI.Rmd",
     "project_path" : "IUSSI.Rmd",
     "properties" : {
         "chunk_output_type" : "console",
-        "cursorPosition" : "20,17",
-        "scrollLine" : "9"
+        "cursorPosition" : "7,17",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
