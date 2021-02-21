@@ -38,7 +38,11 @@ library(jpeg)
     
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am a fourth year PhD candidate in the parasitic behavioral manipulation lab at [Department of Biology](http://sciences.ucf.edu/biology/), University of Central Florida. In the lab, we study the enigmatic "zombie ant" fungus _Ophiocordyceps unilateralis_ that infects and manipulates the behavior of the Florida carpenter ants, _Camponotus floridanus_, in a time-of-day specific manner. I am testing the hypothesis that the fungal parasite likely hijacks the biological clock of the host in order to do so. Find more about what we do in the lab [here](http://sciences.ucf.edu/biology/debekkerlab/). 
+=======
+I am a fourth year PhD candidate in the parasitic behavioral manipulation lab at [Department of Biology](http://sciences.ucf.edu/biology/), University of Central Florida. In the lab, we study the enigmatic "zombie ant" fungus _Ophiocordyceps unilateralis_ that infects and manipulates the behavior of the Florida carpenter ants, _Camponotus floridanus_, in a time-of-day specific manner. I am testing the hypothesis that the fungal parasite likely hijacks the biological clock of the host in order to do so. Find more about what we do in the lab [here](http://sciences.ucf.edu/biology/debekkerlab/). I am an idiot and I like to burn stuff because I want to date Bill.fykudjuyguklghligflyiguguilguilgiuliu
+>>>>>>> c74d8c8de236f94038892eca24c03b1df5852c17
 =======
 I am a fourth year PhD candidate in the parasitic behavioral manipulation lab at [Department of Biology](http://sciences.ucf.edu/biology/), University of Central Florida. In the lab, we study the enigmatic "zombie ant" fungus _Ophiocordyceps unilateralis_ that infects and manipulates the behavior of the Florida carpenter ants, _Camponotus floridanus_, in a time-of-day specific manner. I am testing the hypothesis that the fungal parasite likely hijacks the biological clock of the host in order to do so. Find more about what we do in the lab [here](http://sciences.ucf.edu/biology/debekkerlab/). I am an idiot and I like to burn stuff because I want to date Bill.fykudjuyguklghligflyiguguilguilgiuliu
 >>>>>>> c74d8c8de236f94038892eca24c03b1df5852c17
