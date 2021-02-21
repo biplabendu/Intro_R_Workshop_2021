@@ -1,0 +1,15 @@
+name: Intro_to_R
+author: Biplabendu Das
+output_dir: docs
+output:
+  html_document:
+    theme: darkly
+navbar:
+  title: Intro_to_R
+  left:
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: Tutorial_1
+    href: IUSSI.html
+    icon: fa-home
